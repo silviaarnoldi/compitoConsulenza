@@ -1,4 +1,4 @@
-package it.itispaleocapa.silviaarnoldi;
+package it.itispaleocapa.consulenzaa;
 public abstract class Personale {
     String codice;
     String cognome;

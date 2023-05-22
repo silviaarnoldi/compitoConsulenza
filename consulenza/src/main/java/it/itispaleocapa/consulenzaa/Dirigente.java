@@ -1,4 +1,4 @@
-package it.itispaleocapa.silviaarnoldi;
+package it.itispaleocapa.consulenzaa;
 public class Dirigente extends Personale {
     public Dirigente(String cod, String c, String n, int a, int o) {
         super(cod, c, n, a, o);

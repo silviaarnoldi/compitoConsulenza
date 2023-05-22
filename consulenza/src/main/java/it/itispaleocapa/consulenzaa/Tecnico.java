@@ -1,4 +1,4 @@
-package it.itispaleocapa.silviaarnoldi;
+package it.itispaleocapa.consulenzaa;
 import java.time.LocalDate;
 public class Tecnico extends Personale {
     String competenza;

@@ -1,4 +1,4 @@
-package it.itispaleocapa.silviaarnoldi;
+package it.itispaleocapa.consulenzaa;
 import java.time.LocalDate;
 public class Funzionario extends Personale {
     public Funzionario(String cod, String c, String n, int a, int o) {

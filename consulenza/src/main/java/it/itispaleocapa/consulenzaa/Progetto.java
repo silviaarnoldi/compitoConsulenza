@@ -1,4 +1,4 @@
-package it.itispaleocapa.silviaarnoldi;
+package it.itispaleocapa.consulenzaa;
 import java.util.*;
 public class Progetto {
     public LinkedList<Personale> membri;
